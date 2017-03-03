@@ -1,5 +1,8 @@
 # Programming Languages
 Spring 2016  
+Homeworks done in three languages. Python, Java, and SML.  
+All Python and Java scripts work correctly. SML scrpits work  
+with varying degrees of success.  
   
 # Homework 1  
 Program reads in an input file(input.txt - a plain text file  
@@ -8,9 +11,9 @@ line read in is a pangram or not. If the sentence read is a
 pangram, it writes 'true' to the output file. If it's not, it  
 writes 'false' to the output file.  
   
-# Homework 2
+# Homework 2 - 4
 The goal of this homework is to understand and build an interpreter  
-in three languages (Python, SML, Java, 20 marks for each) for a small  
+in three languages (Python, SML, and Java) for a small  
 language. Your interpreter should read in an input file (input.txt)  
 which contains lines of expressions, evaluate them and push the  
 results onto a stack, then print the content of the stack to an  
